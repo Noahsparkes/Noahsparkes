@@ -16,11 +16,10 @@ About Me:
 - I am a strategic thinker and a collaborative team player, always looking for innovative solutions to complex problems.
 - My strong communication and interpersonal skills enable me to build strong relationships with people.
 - I am passionate about staying up-to-date with the latest trends and best practices in tech.
-- I consider myself o have strong language skills being fluent in Dutch, Engish and proficcient in Afrikaans.
+- I consider myself to have strong language skills being fluent in Dutch, Engish and proficcient in Afrikaans.
 
 
 - 📫 How to reach me: LikedIn - https://www.linkedin.com/in/noah-sparkes-22a4ba267/
-
 
 
 <!---
