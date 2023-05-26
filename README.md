@@ -8,9 +8,9 @@ About Me:
 - 📚 I currently hold 2 FreeCodeCamp certificates, one in Resposive Web design and another in JavaScript Data Strctures and Algorithms.
 - 👨🏽‍🎓 I am also a student at CodeSpace in their course for Software Development.
 
- -🏄🏾‍♂️ Aside from coding I am quite an outdoors person, mainly into activities such as: surfing, hiking, playing golf and swimming.
+ - 🏄🏾‍♂️ Aside from coding I am quite an outdoors person, mainly into activities such as: surfing, hiking, playing golf and swimming.
 
--🐘 I Love to travel when I get the chance, often going on roadtrips once a year, my latest roadtrip being in the Kruger national Park in South Africa at
+- 🐘 I Love to travel when I get the chance, often going on roadtrips once a year, my latest roadtrip being in the Kruger national Park in South Africa at
     the beggining of 2023.
   
 - I am a strategic thinker and a collaborative team player, always looking for innovative solutions to complex problems.
