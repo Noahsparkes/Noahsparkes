@@ -6,7 +6,7 @@ About Me:
 - 🤝 I’m looking to collaborate on more Open-source projects to get familliar with working with more people on projects and to build up my teamwork skills.
 
 - 📚 I currently hold 2 FreeCodeCamp certificates, one in Resposive Web design and another in JavaScript Data Strctures and Algorithms.
-- 👨🏽‍🎓 I am also a student at CodeSpace in their course for Software Development.
+- 👨🏽‍🎓 I am also a recent CodeSpace Academy Software Development graduate.
 
  - 🏄🏾‍♂️ Aside from coding I am quite an outdoors person, mainly into activities such as: surfing, hiking, playing golf and swimming.
 
