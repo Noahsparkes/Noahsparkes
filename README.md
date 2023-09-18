@@ -2,7 +2,7 @@ About Me:
 
 - 👋 Hi, I’m Noah Sparkes, Welcome to my GitHub profile!
 - 👀 I’m interested in Learning and expanding my knowledge on Software Development as a whole and gaining as much expereince as I possibly can.
-- 🌱 I’m currently learning Javascript, more specifically Data structures and Algorithims, along with frameworks such as React, Node.js, Nuxt.js and Vue.
+- 🌱 I’m currently learning Javascript, more specifically Data structures and Algorithims, along with frameworks such as React, Node.js, Lit and Vue.
 - 🤝 I’m looking to collaborate on more Open-source projects to get familliar with working with more people on projects and to build up my teamwork skills.
 
 - 📚 I currently hold 2 FreeCodeCamp certificates, one in Resposive Web design and another in JavaScript Data Strctures and Algorithms.
