@@ -13,7 +13,7 @@ I am a passionate software developer with a love for creating innovative and eff
 - **Languages**: JavaScript, TypeScript
 - **Web Development**: HTML, CSS, React, Node.js
 - **Version Control**: Git, GitHub
-- **Backend**: Next.js
+- **Backend/Fullstack**: Next.js
 
 ## 📈 GitHub Stats
 
