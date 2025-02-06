@@ -1,27 +1,45 @@
-About Me:
-
-- 👋 Hi, I’m Noah Sparkes, Welcome to my GitHub profile!
-- 👀 I’m interested in Learning and expanding my knowledge on Software Development as a whole and gaining as much expereince as I possibly can.
-- 🌱 I’m currently learning Javascript, TypeScript and frameworks like React and Next.JS.
-- 🤝 I’m looking to collaborate on more Open-source projects to get familliar with working with more people on projects and to build up my teamwork skills.
-
-- 📚 I currently hold 2 FreeCodeCamp certificates, one in Resposive Web design and another in JavaScript Data Strctures and Algorithms.
-- 👨🏽‍🎓 I am also a CodeSpace Academy Software Development graduate.
-
- - 🏄🏾‍♂️ Aside from coding I am quite an outdoors person, mainly into activities such as: surfing, hiking, playing golf and swimming.
-
-- 🐘 I Love to travel when I get the chance, often going on roadtrips once a year, my latest roadtrip being in the Kruger national Park in South Africa at
-    the beggining of 2023.
-  
-- I am a strategic thinker and a collaborative team player, always looking for innovative solutions to complex problems.
-- My strong communication and interpersonal skills enable me to build strong relationships with people.
-- I am passionate about staying up-to-date with the latest trends and best practices in tech.
-
-
-- 📫 How to reach me: LikedIn - https://www.linkedin.com/in/noah-sparkes-22a4ba267/
-
 
 <!---
 Noahsparkes/Noahsparkes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Hi, I'm Noah Sparkes 👋
+
+I am a passionate software developer with a love for creating innovative and efficient solutions. With expertise in various programming languages and technologies, I strive to deliver high-quality code and contribute to the developer community.
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript
+- **Web Development**: HTML, CSS, React, Node.js
+- **Version Control**: Git, GitHub
+- **Backend**: Next.js
+
+## 📈 GitHub Stats
+
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noahsparkes&show_icons=true&theme=dark)
+
+## 📫 How to Reach Me
+
+- **Email**: [noah.sparkes19@gmail.com](mailto:noah.sparkes19@gmail.com)
+- **LinkedIn**: [Noah Sparkes](https://www.linkedin.com/in/noah-sparkes-22a4ba267/)
+
+
+## 🌟 Projects
+
+- **Project 1**: Description of project 1 with [link](#)
+- **Project 2**: Description of project 2 with [link](#)
+- **Project 3**: Description of project 3 with [link](#)
+
+
+## 🌱 Currently Learning
+
+- Next.js, PostgreSQL, Typescript
+- DevOps Engineering tools: GitHub Actions, AWS, Docker, Ansible , Linux, Jenkins, Teraform
+
+## ⚡ Fun Fact
+
+I love Surfing and gaming. When I'm not coding, you can find me in the line-up of the surf or exploring the latest in the gaming community.
+
+Thanks for visiting my profile!
+```
