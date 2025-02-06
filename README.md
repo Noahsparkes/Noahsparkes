@@ -35,7 +35,7 @@ I am a passionate software developer with a love for creating innovative and eff
 ## 🌱 Currently Learning
 
 - Next.js, PostgreSQL, Typescript
-- DevOps Engineering tools: GitHub Actions, AWS, Docker, Ansible , Linux, Jenkins, Teraform
+- DevOps Engineering tools: GitHub Actions, AWS, Docker, Ansible , Linux, Jenkins, Kubernetes, Teraform
 
 ## ⚡ Fun Fact
 
